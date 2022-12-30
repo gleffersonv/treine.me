@@ -2,21 +2,9 @@
 <h1 align="center">
  Treine.me
 </h1>
-
 <p align="center">
-  <img alt="" src="https://user-images.githubusercontent.com/62262162/208820551-06902d73-9c31-4c14-9c4b-9eece05cec76.png" width="100%">
+  <img alt="" src="https://user-images.githubusercontent.com/62262162/210081061-434564b5-cb42-4acc-8d86-9ab6ebf64c93.png" width="100%">
 </p>
-
-<br>
-<h1 align="center">
- Badge do Alura Challenge Projeto 1
-</h1>
-
-<p align="center">
-  <img alt="" src="https://user-images.githubusercontent.com/62262162/208822282-d207684e-b366-4663-b357-e78fd5dc059a.png" width="30%">
-</p>
-
-
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -56,7 +44,7 @@ Live Preview: <a href="https://gleffersonv.github.io/ChallengeONE_Oracle_Alura/"
 ## 🎨 Inspiração:
 
 Explorer Rockeseat: Challenge <br>
-Figma: <a https://www.figma.com/file/zQcSQuGYKNPYZsyQMMqjca/Explorer---Projeto-02-(Copy)?node-id=1%3A5&t=VwTqED6ntngX9Iq9-0"> Layout</a>
+Figma: <a "https://www.figma.com/file/zQcSQuGYKNPYZsyQMMqjca/Explorer---Projeto-02-(Copy)?node-id=1%3A5&t=VwTqED6ntngX9Iq9-0"> Layout</a>
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
